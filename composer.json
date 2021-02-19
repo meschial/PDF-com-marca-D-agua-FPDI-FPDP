@@ -1,0 +1,16 @@
+{
+    "name": "murilo/pdf",
+    "description": "pdf",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "meschial",
+            "email": "marcosmeschial@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi": "^2.3"
+    }
+}
